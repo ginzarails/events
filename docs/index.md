@@ -15,6 +15,6 @@
 |リンクアンドモチベーション様|スポンサーセッション|
 |Forkwell様|スポンサーセッション|
 |uuushiroさん| [Railsスタートアップがやってよかったこと](https://speakerdeck.com/uuushiro/yin-zuo-rails-number-1-uuushiro) |
-|rerostさん| [RailsでProtobufを使いたくなった話](https://speakerdeck.com/hazumirr/rails-kara-protobuf-woshi-itakunatutahu://speakerdeck.com/hazumirr/rails-kara-protobuf-woshi-itakunatutahua) |
+|rerostさん| [RailsでProtobufを使いたくなった話](https://speakerdeck.com/hazumirr/rails-kara-protobuf-woshi-itakunatutahua) |
 |a_matsudaさん|[10.years of Rails Development](https://speakerdeck.com/a_matsuda/ginza-rails-1) |
 
