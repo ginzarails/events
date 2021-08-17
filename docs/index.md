@@ -14,10 +14,11 @@
 |ご登壇者|title|
 |リンクアンドモチベーション様|スポンサーセッション|
 |Forkwell様|スポンサーセッション|
-|uuushiroさん| [Railsスタートアップがやってよかったこと](https://speakerdeck.com/uuushiro/yin-zuo-rails-number-1-uuushiro) |
-|rerostさん| [RailsでProtobufを使いたくなった話](https://speakerdeck.com/hazumirr/rails-kara-protobuf-woshi-itakunatutahua) |
-|a_matsudaさん|[10.years of Rails Development](https://speakerdeck.com/a_matsuda/ginza-rails-1) |
+|@uuushiroさん| [Railsスタートアップがやってよかったこと](https://speakerdeck.com/uuushiro/yin-zuo-rails-number-1-uuushiro) |
+|@rerostさん| [RailsでProtobufを使いたくなった話](https://speakerdeck.com/hazumirr/rails-kara-protobuf-woshi-itakunatutahua) |
+|@a_matsuda(松田明)さん|[10.years of Rails Development](https://speakerdeck.com/a_matsuda/ginza-rails-1) |
 
+---
 
 ## #02 2018/10/21(木)
 
@@ -33,9 +34,11 @@
 |ご登壇者|title|
 |リンクアンドモチベーション様|スポンサーセッション|
 |Forkwell様|スポンサーセッション|
-|@yhirano55さん| [カンファレンス型技術イベントの作り方](https://speakerdeck.com/yhirano55/how-to-organize-a-tech-conference) |
-|@Spring_MTさん| [Swagger(OpenAPI 2.0)を使ったAPI仕様Drivenな開発](https://speakerdeck.com/spring_mt/api-spec-driven-development-with-swagger) |
-|@joker1007さん| [ActiveRecordだけで戦うにはこの世界は複雑すぎる](https://speakerdeck.com/joker1007/akuteirekododakedezhan-uniha-kofalseshi-jie-hafu-za-guo-giru-number-ginzarails) |
+|@yhirano55(YOSHIYUKI HIRANO)さん| [カンファレンス型技術イベントの作り方](https://speakerdeck.com/yhirano55/how-to-organize-a-tech-conference) |
+|@Spring_MT(春山誠)さん| [Swagger(OpenAPI 2.0)を使ったAPI仕様Drivenな開発](https://speakerdeck.com/spring_mt/api-spec-driven-development-with-swagger) |
+|@joker1007(橋立知宏)さん| [ActiveRecordだけで戦うにはこの世界は複雑すぎる](https://speakerdeck.com/joker1007/akuteirekododakedezhan-uniha-kofalseshi-jie-hafu-za-guo-giru-number-ginzarails) |
+
+---
 
 ## #03 2018/11/21(水)
 
