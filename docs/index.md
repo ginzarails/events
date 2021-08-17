@@ -1,6 +1,6 @@
 # 開催履歴
 
-## #01 2018/9/20(木)
+# #01 2018/9/20(木)
 
 ### 概要
 
@@ -20,7 +20,7 @@
 
 ---
 
-## #02 2018/10/21(木)
+# #02 2018/10/21(木)
 
 ### 概要
 
@@ -40,7 +40,7 @@
 
 ---
 
-## #03 2018/11/21(水)
+# #03 2018/11/21(水)
 
 ### 概要 
 
@@ -57,3 +57,62 @@
 |@igaiga555(五十嵐邦明)さん| [RubyおよびRails書籍の分類と一考察2018年秋版](https://speakerdeck.com/igaiga/ginza-rails-vol3-igaiga) |
 |@tatsuoSakurai(櫻井達夫)さん| [現場で使えるゆるいペアプロ](https://speakerdeck.com/tatsuosakurai/light-pear-programming) |
 |@nay3(大場寧子)さん| ["Railsで開発できる"への道](https://speakerdeck.com/nay3/railsdekai-fa-dekiru-hefalsedao) |
+
+
+---
+
+# #04 2018/12/21(金)
+
+### 概要 
+
+|開催場所| GINZA SIX 12F リンクアンドモチベーション様セミナールーム |
+|イベント| [銀座Rails#4 @リンクアンドモチベーション](https://ginza-rails.connpass.com/event/108072/) |
+|レポート| [銀座Rails#4を開催しました](https://ginkouno.hatenablog.jp/entry/2018/12/28/121842) |
+|togetter| [銀座Rails#4まとめ](https://togetter.com/li/1302469) |
+
+### TimeTable
+
+|ご登壇者|title|
+|リンクアンドモチベーション様|スポンサーセッション|
+|Forkwell様|スポンサーセッション|
+|@atsss(伊藤 敦之)さん| Rails アプリを個人開発からチーム開発に成長させる |
+|@qsonaさん| [Microservice is dead. Long live microservice (with Rails)](https://speakerdeck.com/qsona/microservices-is-dead-long-live-microservices-number-ginzarails) |
+|@t_wada(和田 卓人)さん| 「地獄の軽減税率シミュレータライブコーディング」 |
+
+---
+
+# #05 2019/01/25(金)
+
+### 概要 
+
+|開催場所| GINZA SIX 12F リンクアンドモチベーション様セミナールーム |
+|イベント| [銀座Rails#5 @リンクアンドモチベーション](https://ginza-rails.connpass.com/event/112093/) |
+|レポート| [銀座Rails#5を開催しました](https://ginkouno.hatenablog.jp/entry/2019/02/07/173541) |
+|togetter| [銀座Rails#5まとめ](https://togetter.com/li/1315217) |
+
+### TimeTable
+
+|ご登壇者|title|
+|リンクアンドモチベーション様|スポンサーセッション|
+|Forkwell様|スポンサーセッション|
+|@yhirano55(YOSHIYUKI HIRANO)さん| Rails コントリビューションと私 |
+|@masato_egamiさん|モチベーション革命 〜テスト導入のきっかけと運用体制〜|
+|@netwillnet(前島真一)さん| [個人で作るwebサービス](https://blog.willnet.in/entry/2019/01/26/161140)|
+
+---
+
+# #06 2019/02/22(金)
+
+|開催場所| GINZA SIX 12F リンクアンドモチベーション様セミナールーム |
+|イベント| [銀座Rails#6 @リンクアンドモチベーション](https://ginza-rails.connpass.com/event/112094/) |
+|レポート| [銀座Rails#6を開催しました](https://ginkouno.hatenablog.jp/entry/2019/03/08/154501) |
+|togetter| [銀座Rails#6まとめ](https://togetter.com/li/1322418) |
+
+### TimeTable
+
+|ご登壇者|title|
+|リンクアンドモチベーション様|スポンサーセッション|
+|Forkwell様|スポンサーセッション|
+|@shinkuFencerさん| [テストコード未経験者がRailsでそれなりにRSpecがかけるようになるまでの話](https://speakerdeck.com/shinkufencer/inexperience-rails-developer-use-rspec)|
+|cawaさん|[Rails6からRailsをわかっていく](https://speakerdeck.com/cawa/rails6kararailswowakatuteiku)|
+|@onk(大仲 能史)さん|「1からの再出発」|
