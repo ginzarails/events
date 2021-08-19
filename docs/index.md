@@ -92,6 +92,8 @@
 
 # #06 2019/02/22(金)
 
+### 概要
+
 |開催場所| GINZA SIX 12F リンクアンドモチベーション様セミナールーム |
 |イベント| [銀座Rails#6 @リンクアンドモチベーション](https://ginza-rails.connpass.com/event/112094/) |
 |レポート| [銀座Rails#6を開催しました](https://ginkouno.hatenablog.jp/entry/2019/03/08/154501) |
@@ -108,6 +110,8 @@
 
 # #07 2019/03/26(火)
 
+### 概要
+
 |開催場所| GINZA SIX 12F リンクアンドモチベーション様セミナールーム |
 |イベント| [銀座Rails#7 @リンクアンドモチベーション](https://ginza-rails.connpass.com/event/120573/) |
 
@@ -121,6 +125,8 @@
 |安川要平(@yasulab)さん|RailsチュートリアルやRailsガイド を題材にした、プロダクト開発 (とお金) の話|
 
 # #08 2019/04/24(火)
+
+### 概要
 
 |開催場所| GINZA SIX 12F リンクアンドモチベーション様セミナールーム |
 |イベント| [銀座Rails#8 @リンクアンドモチベーション](https://ginza-rails.connpass.com/event/121889/) |
@@ -151,6 +157,8 @@
 
 # #10 2019/06/21(木)
 
+### 概要
+
 |開催場所| GINZA SIX 12F リンクアンドモチベーション様セミナールーム |
 |イベント| [銀座Rails#10 @リンクアンドモチベーション](https://ginza-rails.connpass.com/event/133628/) |
 |レポート| [銀座Rails#10 開催レポート](https://ginkouno.hatenablog.jp/entry/2019/07/05/162530) |
@@ -166,6 +174,8 @@
 |諸橋恭介(@moro)さん|[オレオレフレームワークを作らない方法 / How NOT to build own framework on Rails](https://speakerdeck.com/moro/how-not-to-build-frameworks)|
 
 # #11 2019/07/24(水)
+
+### 概要
 
 |開催場所| GINZA SIX 12F リンクアンドモチベーション様セミナールーム |
 |イベント| [銀座Rails#11 @リンクアンドモチベーション](https://ginza-rails.connpass.com/event/135452/) |
@@ -183,6 +193,8 @@
 |@yahondaさん|[ActiveRecord::Migrationのうしろ側 / How ActiveRecord::Migration converts create_table DSL into SQL statements 」](https://speakerdeck.com/yahonda/how-activerecord-migration-converts-create-table-dsl-into-sql-statements)|
 
 # #12 2019/08/29(木)
+
+### 概要
 
 |開催場所| 渋谷ヒカリエ11F DeNA様会議室 |
 |イベント| [銀座Rails#12 @リンクアンドモチベーション](https://ginza-rails.connpass.com/event/139740/) |
