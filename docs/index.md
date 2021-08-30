@@ -642,3 +642,21 @@
 |@joker1007さん|[Ruby on Rails on AWS Lambda](https://speakerdeck.com/joker1007/ruby-on-rails-on-lambda)|
 |島田浩二(@snoozer05)さん|[継続的アーキテクティングとRails](https://speakerdeck.com/snoozer05/continuous-architecting-and-rails-from-rails-new-to-your-own-architecture)|
 
+# #36 2021/8/27(金)
+
+### 概要
+
+|開催場所| オンライン(Zoom) |
+|イベント| [銀座Rails#36 @リンクアンドモチベーション](https://ginza-rails.connpass.com/event/213943) |
+|レポート| [銀座Rails#36を開催しました](https://ginkouno.hatenablog.jp/entry/2021/08/29/122518) |
+|togetter| [銀座Rails#36まとめ](https://togetter.com/li/1766143) |
+
+### TimeTable
+
+|ご登壇者|title|
+|リンクアンドモチベーション様|スポンサーセッション|
+|DeNA様|スポンサーセッション|
+|森雅智(@morimorihoge)さん|[出張Railsウォッチ in 銀座Rails～RDoc/YARDでコメントを書く～](https://speakerdeck.com/morimorihoge/20210827-chu-zhang-railsuotuti-in-yin-zuo-rails-number-36)|
+|河野誠(@ginkouno)|銀座Rails Season1 まとめ|
+|@yutafujiiさん|[【しくじり先生】RailsのAutoloadingとReloadingの仕組みとやってしまったバグ](https://speakerdeck.com/yutafujii0/sikuzirixian-sheng-railsfalseautoloadingtoreloadingfalseshi-zu-mitoyatutesimatutabagu)|
+|松田 明(@a_matsuda)さん|RubyKaigi Takeout 2021 タイムテーブル徹底解説|
